@@ -1,0 +1,12 @@
+﻿  GameAdventure.cpp
+  WindowConnector.cpp
+  ParallelBackground.cpp
+  ScoreManager.cpp
+  GSSetting.cpp
+C:\Users\Lenovo\OneDrive\Desktop\GameAdventure\GameAdventure\Sources\GameStateManager\GSSetting.cpp(56,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\GameAdventure\GameAdventure\Sources\GameStateManager\GSSetting.cpp(56,57): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\GameAdventure\GameAdventure\Sources\GameStateManager\GSSetting.cpp(56,57): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\GameAdventure\GameAdventure\Sources\GameStateManager\GSSetting.cpp(56,57): warning C4244:             T=unsigned int
+C:\Users\Lenovo\OneDrive\Desktop\GameAdventure\GameAdventure\Sources\GameStateManager\GSSetting.cpp(56,57): warning C4244:         ]
+  Generating Code...
+  GameAdventure.vcxproj -> C:\Users\Lenovo\OneDrive\Desktop\GameAdventure\Debug\GameAdventure.exe
